@@ -1,0 +1,10 @@
+package by.htp.carparking.web.command;
+
+public enum ActionType {
+	
+	DELETE_CAR, DELETE_CAR_ACTION,
+	VIEW_CAR, VIEW_CAR_ACTION, VIEW_CAR_LIST,
+	ADD_CAR, ADD_CAR_ACTION, 
+	UPDATE_CAR, UPDATE_CAR_ACTION, UPDATE_CAR_ACTION_ON_ACTION
+
+}
